@@ -1,13 +1,5 @@
-# Organize all english words into each category
+# Organizar Todas Palabras en español
 
-example: 
+Para La Aplicacion:
+[tiburin.com/apps/expo](http://tiburin.com/apps/expo)
 
-work
-working
-worked
-books
-ate
-men
-known
-easily
-easiest# gamoEspanol
